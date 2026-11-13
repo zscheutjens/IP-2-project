@@ -16,9 +16,14 @@ MIT License. See the [LICENSE](LICENSE) file for details.
 
 hallo
 beeb boop 
-<<<<<<< HEAD
 
 watermeloen
-=======
 aardbei 
->>>>>>> 4c1e9ea (changed message)
+bannaan 
+
+
+
+
+30 
+djie 
+waarom werkt dit niet sss
